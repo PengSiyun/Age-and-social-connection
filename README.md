@@ -1,3 +1,3 @@
-ATUS files are for time dairy analysis
+ATUS files are Stata code for time dairy analysis
 
 other files are for network analysis
